@@ -31,6 +31,14 @@ Las capas en AutoCAD son esenciales para organizar y controlar la visibilidad de
 5. Cambia a la capa "Comunicaciones" y dibuja las tuberías y accesorios.
 6. Utiliza las herramientas de organización para mostrar u ocultar capas específicas y bloquear las capas que no estás editando.
 
+> [!IMPORTANT]
+> Como opción para dibujar o incluir los elementos o accesorios utilizar la paleta tipo flotante "Centro de Diseño" que permite la descarga rápida de objetos desde cualquier archivo AutoCAD para incorporarlos a nuestro dibujo.
+> La ejecutas de la siguiente forma:
+> 
+> ![image](https://github.com/user-attachments/assets/e698a40e-cb9d-4dbf-bce0-9cc8935f2141)
+>
+> ![image](https://github.com/user-attachments/assets/25f430e6-c319-4d52-b841-ff4f6975c2c3)
+
 **Puntuación: 50 puntos**
 
 #### Ayuda Visual:
@@ -61,15 +69,19 @@ Los bloques son colecciones de objetos que se combinan en una sola entidad. Esto
 **Paso a Paso Resuelto:**
 
 1. Dibuja cada símbolo eléctrico usando herramientas de línea y círculo.
+2. Selecciona los objetos para cada símbolo y crea bloques individuales.
 
-> [!IMPORTANT]
-> Como opción utilizar la paleta tipo flotante "Centro de Diseño" que permite la descarga rápida de objetos desde cualquier archivo AutoCAD para incorporarlos a nuestro dibujo.
-> La ejecutas de la siguiente forma:
-> 
-> ![image](https://github.com/user-attachments/assets/e698a40e-cb9d-4dbf-bce0-9cc8935f2141)
+> [!NOTE]
+> Utilizar:
+>
+> ![image](https://github.com/user-attachments/assets/bba0dbf9-4e3d-40e2-8904-1d12bb742acf)
+>
+> Una vez creado el bloque lo podemos insertar de la siguiente forma:
+>
+> ![image](https://github.com/user-attachments/assets/9c37f9f3-3524-44e5-871e-cb92d2dae6fe)
 
-   
-3. Selecciona los objetos para cada símbolo y crea bloques individuales.
+
+
 4. Crea un bloque compuesto seleccionando los bloques de símbolos y nómbralo "Circuito básico".
 5. Inserta el bloque compuesto en diferentes lugares y orientaciones dentro del mismo dibujo.
 
