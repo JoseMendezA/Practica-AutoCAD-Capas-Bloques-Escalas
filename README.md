@@ -156,14 +156,11 @@ Este ejercicio avanzado te ayudará a dominar la aplicación de escalas en AutoC
 
 **Puntuación: 25 puntos**
 
-#### Ayuda Visual:
-![Escalas en AutoCAD](https://example.com/escalas_image.png)
-
 ---
 
 ## Conclusión
 
-Completar estos ejercicios avanzados en un contexto de ingeniería eléctrica te proporcionará una comprensión sólida de las capas, bloques y escalas en AutoCAD.
+Completar estos ejercicios en un contexto de ingeniería eléctrica y electrónica te proporcionará una comprensión sólida de las capas, bloques y escalas en AutoCAD.
 
 > :bulb: **Tip**: Experimenta con diferentes configuraciones de bloques y escalas para descubrir las mejores prácticas de diseño en AutoCAD.
 
