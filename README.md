@@ -39,7 +39,7 @@ Las capas en AutoCAD son esenciales para organizar y controlar la visibilidad de
 >
 > ![image](https://github.com/user-attachments/assets/25f430e6-c319-4d52-b841-ff4f6975c2c3)
 
-**Puntuación: 50 puntos**
+**Puntuación: 40 puntos**
 
 #### Ayuda Visual:
 ![image](https://github.com/user-attachments/assets/1803c6cb-a080-45b6-909d-b0c1253c44c7)
@@ -82,7 +82,7 @@ Los bloques son colecciones de objetos que se combinan en una sola entidad. Esto
 4. Crea un bloque compuesto seleccionando los bloques de símbolos y nómbralo "Circuito básico".
 5. Inserta el bloque compuesto en diferentes lugares y orientaciones dentro del mismo dibujo.
 
-**Puntuación: 25 puntos**
+**Puntuación: 30 puntos**
 
 #### Ayuda Visual:
 ![Bloques Eléctricos en AutoCAD](https://example.com/bloques_electricos_image.png)
@@ -138,7 +138,7 @@ Aprender a aplicar diferentes escalas a un plano eléctrico de una habitación, 
 
 > :warning: **Advertencia**: Siempre verifica que las cotas y anotaciones estén correctamente ajustadas a la escala antes de imprimir. Esto evitará confusiones y errores en la interpretación del plano.
 
-**Puntuación: 50 puntos**
+**Puntuación: 30 puntos**
 
 #### Ayuda Visual:
 ![Escalas en AutoCAD](https://example.com/escalas_image.png)
