@@ -47,9 +47,6 @@ Las capas en AutoCAD son esenciales para organizar y controlar la visibilidad de
 > [!TIP]
 > ![image](https://github.com/user-attachments/assets/8e2343a5-2342-4101-b59e-36214e656ce0)
 
-![Propiedades de las CAPAS](https://github.com/user-attachments/assets/03b18f46-32a0-4f4b-b925-b8470bd3800c)
-
-
 ---
 
 ## Parte 2: Bloques en AutoCAD
