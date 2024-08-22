@@ -110,10 +110,10 @@ Aprender a aplicar diferentes escalas a un plano eléctrico de una habitación, 
    - Añade componentes eléctricos, como interruptores, tomacorrientes, lámparas y cableado.
 
 2. **Configuración de Escala Inicial:**
-   - Ajusta la escala del dibujo para que todo el plano quepa en un formato de papel de tamaño A3 (420 mm x 297 mm) con una escala de 1:20. Esto significa que cada unidad en el dibujo representará 20 unidades reales.
+   - Ajusta la escala del dibujo para que todo el plano quepa en un formato de papel de tamaño A3 (420 mm x 297 mm) con una escala de 8:1. Esto significa que 8 unidades en el dibujo representará 1 unidad real.
 
 3. **Reescalado del Plano:**
-   - Cambia la escala del dibujo para imprimirlo en un formato A4 (297 mm x 210 mm) con una escala de 1:50.
+   - Cambia la escala del dibujo para imprimirlo en un formato A4 (297 mm x 210 mm) con una escala de ?:1.
    - Asegúrate de que todos los componentes eléctricos y las anotaciones estén correctamente ajustados para mantener la legibilidad.
 
 4. **Añadir Anotaciones y Cotas:**
