@@ -35,17 +35,17 @@ Las capas en AutoCAD son esenciales para organizar y controlar la visibilidad de
 > Como opción para dibujar o incluir los elementos o accesorios utilizar la paleta tipo flotante "Centro de Diseño" que permite la descarga rápida de objetos desde cualquier archivo AutoCAD para incorporarlos a nuestro dibujo.
 > La ejecutas de la siguiente forma:
 > 
-> ![image](https://github.com/user-attachments/assets/e698a40e-cb9d-4dbf-bce0-9cc8935f2141)
+> <img src="https://github.com/user-attachments/assets/e698a40e-cb9d-4dbf-bce0-9cc8935f2141" width="300" height="100">
 >
-> ![image](https://github.com/user-attachments/assets/25f430e6-c319-4d52-b841-ff4f6975c2c3)
+> <img src="https://github.com/user-attachments/assets/25f430e6-c319-4d52-b841-ff4f6975c2c3" width="700" height="300">
 
 **Puntuación: 40 puntos**
 
 #### Ayuda Visual:
-![image](https://github.com/user-attachments/assets/1803c6cb-a080-45b6-909d-b0c1253c44c7)
+<img src="https://github.com/user-attachments/assets/1803c6cb-a080-45b6-909d-b0c1253c44c7" width="300" height="100">
 
 > [!TIP]
-> ![image](https://github.com/user-attachments/assets/8e2343a5-2342-4101-b59e-36214e656ce0)
+> <img src="https://github.com/user-attachments/assets/8e2343a5-2342-4101-b59e-36214e656ce0" width="700" height="350">
 
 ---
 
