@@ -17,7 +17,7 @@ Las capas en AutoCAD son esenciales para organizar y controlar la visibilidad de
 **Instrucciones:**
 
 1. Abre un nuevo dibujo en AutoCAD.
-2. Crea cinco capas nuevas llamadas "Estructura", "Eléctrico", "Comunicaciones", "Mobiliario" y "Dimensiones".
+2. Crea cinco capas nuevas llamadas "Arquitectónico", "Eléctrico", "Comunicaciones", "Mobiliario" y "Dimensiones".
 3. Asigna colores y tipos de línea específicos a cada capa.
 4. Dibuja un plano arquitectónico básico con elementos estructurales, eléctricos y comunicaciones, cada uno en su respectiva capa.
 5. Utiliza herramientas de organización de capas para mostrar/ocultar y bloquear/desbloquear capas.
@@ -26,8 +26,8 @@ Las capas en AutoCAD son esenciales para organizar y controlar la visibilidad de
 
 1. Abre AutoCAD y ve a la pestaña **Inicio** > **Capas** > **Propiedades de la capa**.
 2. Haz clic en el botón **Nueva capa** y nombra cada capa: "Estructura", "Eléctrico", "Comunicaciones", "Mobiliario", "Dimensiones". Asigna colores y tipos de línea adecuados a cada capa.
-3. Cambia a la capa "Estructura" y dibuja los elementos estructurales.
-4. Cambia a la capa "Eléctrico" y dibuja el cableado y los enchufes.
+3. Cambia a la capa "Arquitectónico" y dibuja los elementos estructurales.
+4. Cambia a la capa "Eléctrico" y dibuja el cableado y los tomacorrientes.
 5. Cambia a la capa "Comunicaciones" y dibuja las tuberías y accesorios.
 6. Utiliza las herramientas de organización para mostrar u ocultar capas específicas y bloquear las capas que no estás editando.
 
