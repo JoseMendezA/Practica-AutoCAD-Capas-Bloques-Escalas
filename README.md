@@ -71,11 +71,11 @@ Los bloques son colecciones de objetos que se combinan en una sola entidad. Esto
 > [!NOTE]
 > Utilizar:
 >
-> ![image](https://github.com/user-attachments/assets/bba0dbf9-4e3d-40e2-8904-1d12bb742acf)
+> <img src="https://github.com/user-attachments/assets/bba0dbf9-4e3d-40e2-8904-1d12bb742acf" width="300" height="100">
 >
 > Una vez creado el bloque lo podemos insertar de la siguiente forma:
 >
-> ![image](https://github.com/user-attachments/assets/9c37f9f3-3524-44e5-871e-cb92d2dae6fe)
+> <img src="https://github.com/user-attachments/assets/9c37f9f3-3524-44e5-871e-cb92d2dae6fe" width="300" height="100">
 
 
 
@@ -85,7 +85,10 @@ Los bloques son colecciones de objetos que se combinan en una sola entidad. Esto
 **Puntuación: 30 puntos**
 
 #### Ayuda Visual:
-![Bloques Eléctricos en AutoCAD](https://example.com/bloques_electricos_image.png)
+
+<img src="https://github.com/user-attachments/assets/e5dc8497-cbb4-4ac1-8198-75a60ddcca94" width="600" height="300">
+
+
 
 ---
 
