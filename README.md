@@ -107,7 +107,7 @@ Aprender a aplicar diferentes escalas a un plano eléctrico de una habitación, 
 
 1. **Dibujo Inicial del Plano Eléctrico:**
    - Crea un plano eléctrico detallado de una habitación, incluyendo paredes, puertas y ventanas.
-   - Añade componentes eléctricos, como interruptores, enchufes, lámparas y cableado.
+   - Añade componentes eléctricos, como interruptores, tomacorrientes, lámparas y cableado.
 
 2. **Configuración de Escala Inicial:**
    - Ajusta la escala del dibujo para que todo el plano quepa en un formato de papel de tamaño A3 (420 mm x 297 mm) con una escala de 1:20. Esto significa que cada unidad en el dibujo representará 20 unidades reales.
